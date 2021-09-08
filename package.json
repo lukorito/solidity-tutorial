@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "solc": "0.4.17"
+  },
+  "name": "solidity-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lukorito/solidity-tutorial.git",
+  "author": "Kelvin Kitika <lukkitt@live.co.uk>",
+  "license": "MIT"
+}
