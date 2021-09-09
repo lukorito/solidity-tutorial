@@ -1,11 +1,18 @@
 {
   "dependencies": {
-    "solc": "0.4.17"
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.1",
+    "solc": "0.4.17",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "1.3.5"
   },
   "name": "solidity-tutorial",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:lukorito/solidity-tutorial.git",
   "author": "Kelvin Kitika <lukkitt@live.co.uk>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  }
 }
